@@ -1,2 +1,5 @@
 Dans ce chapitre je présenterai un état de l'art de l'existant
 et quelques diagrammes de mon outil.
+Si vous voulez passer pour un grand esprit
+présentez clairement les choses confuses
+et confusément les choses claires 
